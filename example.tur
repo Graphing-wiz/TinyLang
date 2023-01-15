@@ -1,0 +1,7 @@
+data int 2;
+data int 3;
+data str lol;
+tape;
+print $1;
+loop 3 data str $1;
+tape;
