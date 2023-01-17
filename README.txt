@@ -1,3 +1,5 @@
+	If you have any questions or ideas please contact me on discord @Maxxie#7456 any and all ideas are welcome!!!
+
 rest:
 	Halts the process for a given amount of time in seconds
 	Ex: `rest 10`
