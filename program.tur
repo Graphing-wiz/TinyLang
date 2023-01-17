@@ -1,0 +1,5 @@
+define whatToDo rest 10 then print awake;
+data str rand 1 20;
+data str is $EVAL0 > 10;
+data bool $EVAL1;
+if $DATA2 do whatToDo;
